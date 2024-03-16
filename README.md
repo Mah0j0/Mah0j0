@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning systems engeneering
+- 🔭 I’m currently working on a big uni project that I hope I can share here later
+- ⚡ I´m new in the world of coding
